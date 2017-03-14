@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101219303","appkey":"381d11f69e5406cbe12a6f56ed29c720","callback":"http://www.sameboy.com/loginapi/qq/callback.php","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}

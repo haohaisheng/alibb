@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Common/DownController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Tongbu/FabuController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Models/Admin/ProductTemp.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Models/Web/Opinion.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/assets/js/page.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/assets/js/statis.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/assets/js/utils.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/demo/demo.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/tongbu/fabu_detail.blade.php" charset="UTF-8" />
+  </component>
+</project>
